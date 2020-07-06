@@ -1,5 +1,5 @@
-//time complexity 
-//
+//time complexity O(n) since we are iterating over the array once
+//space complexity O(1) although we use HashMap still its space is constant A-Z
 
 class Solution {
     public int leastInterval(char[] tasks, int n) {
